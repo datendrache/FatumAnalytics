@@ -21,7 +21,7 @@ using Lucene.Net.Analysis.Standard;
 using Lucene.Net.Index;
 using Lucene.Net.Store;
 
-namespace FatumAnalytics
+namespace Proliferation.FatumAnalytics
 {
     public sealed class SearchModule
     {

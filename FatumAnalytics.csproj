@@ -9,12 +9,14 @@
     <Description>Analytics Classes for Fatum</Description>
 	<Authors>Datendrache</Authors>
     <Copyright>Copyright 2003-2023 by Eric Knight</Copyright>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <RepositoryUrl>https://github.com/datendrache/FatumAnalytics.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>Proliferation; Fatum; Analytics</PackageTags>
     <PackageReleaseNotes>Updating to 1.0.2 Fatum compatibility</PackageReleaseNotes>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/datendrache/FatumAnalytics</PackageProjectUrl>
+    <AssemblyName>Proliferation.FatumAnalytics</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
